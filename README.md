@@ -1,6 +1,6 @@
 # Orbit — Catálogo de productos
 
-**Gabriel Haro · Aplicaciones Multiplataformas · Laboratorio 09 · Sección B**
+**Gabriel Haro · Aplicaciones Multiplataformas · Laboratorio 07-08 · Sección B**
 
 Prototipo de interfaz desarrollado en **Dart con Flutter**. Presenta cinco pantallas conectadas por rutas, un catálogo de datos locales y una propuesta de diseño propia basada en la actividad del curso.
 
